@@ -4,8 +4,7 @@ description: Simple website with GitHub Pages
 layout: page
 title: simple site
 ---
-
-Example Blog.
+Welcome!  Blog is created !
 -------------
 
  
@@ -13,7 +12,6 @@ Example Blog.
 ### September 20, 2017
 
 Created [Gantt Chart](https://github.com/n01033547/Bluetooth/blob/master/SushantGanttProject.mpp).  
-![Image of Schedule](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/documentation/Week3RubricforProjectSchedule.jpg)
 
 ### September 13, 2017
 
@@ -25,4 +23,3 @@ Created [repository](https://github.com/n01033547/Bluetooth.git). Also generated
 
 ### August 30, 2017
 
-Welcome!
