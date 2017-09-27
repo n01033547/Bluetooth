@@ -9,7 +9,7 @@ Welcome!  Blog is created !
 
  
 
-### September 20, 2017
+### September 25, 2017
 
 Created [Gantt Chart](https://github.com/n01033547/Bluetooth/blob/master/SushantGanttProject.mpp).  
 
