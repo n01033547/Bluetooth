@@ -21,7 +21,7 @@ Created [Gantt Chart](https://github.com/n01033547/Bluetooth/blob/master/Sushant
 
 ### September 13, 2017
 
-Created [proposal](https://github.com/six0four/StudentSenseHat/blob/master/documentation/ProposalContentStudentNameRev02.pdf).
+Created [Proposal](https://github.com/six0four/StudentSenseHat/blob/master/documentation/ProposalContentStudentNameRev02.pdf).
 
 ### September 6, 2017
 
