@@ -7,7 +7,13 @@ title: simple site
 Welcome!  Blog is created !
 -------------
 
- 
+
+
+
+
+### September 25, 2017
+
+Created [Budget](https://github.com/n01033547/Bluetooth/blob/master/SushantGanttProject.mpp).
 
 ### September 25, 2017
 
@@ -20,6 +26,4 @@ Created [proposal](https://github.com/six0four/StudentSenseHat/blob/master/docum
 ### September 6, 2017
 
 Created [repository](https://github.com/n01033547/Bluetooth.git). Also generated a quiz.
-
-### August 30, 2017
 
