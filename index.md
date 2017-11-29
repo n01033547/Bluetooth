@@ -35,5 +35,5 @@ Created [Proposal](https://github.com/six0four/StudentSenseHat/blob/master/docum
 
 ### September 6, 2017
 
-Created [repository](https://github.com/n01033547/Bluetooth.git). Also generated a quiz.
+Created [repository](https://github.com/n01033547/Bluetooth.git).
 
