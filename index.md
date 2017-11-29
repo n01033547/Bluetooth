@@ -11,7 +11,7 @@ Welcome!  Blog is created !
 
 ### November 27, 2017
 
-Created [Led Blinking](https://github.com/n01033547/Bluetooth/Led blinking.JPG).
+Created [Led Blinking](https://github.com/n01033547/Bluetooth/Ledblinking.JPG).
 
 ##### During the strike
 
@@ -19,7 +19,7 @@ Worked on Soldering PCB and running Raspberry pi.
 
 ### October 16, 2017
 
-Created [My sensor is here](https://github.com/n01033547/Bluetooth/Qr Code sensor.JPG).
+Created [My sensor is here](https://github.com/n01033547/Bluetooth/QrCodesensor.JPG).
 
 ### October 2, 2017
 
