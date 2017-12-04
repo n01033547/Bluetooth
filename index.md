@@ -7,7 +7,13 @@ title: simple site
 Welcome!  Blog is created !
 -------------
 
+### December 4, 2017
 
+Pictures of reading the sensors and blinking the led on pcb using raspberry pi.
+
+Created [Reading Sensors](https://github.com/n01033547/Bluetooth/blob/master/redingSensor.JPG).
+(https://github.com/n01033547/Bluetooth/blob/master/readingSensor1.JPG).
+(https://github.com/n01033547/Bluetooth/blob/master/readingSensor2.JPG).
 
 ### November 27, 2017
 
