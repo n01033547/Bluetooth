@@ -2,10 +2,6 @@
 tagline: Website with GitHub Pages
 description: Simple website with GitHub Pages
 layout: page
-title: simple site
----
-Welcome!  Blog is created !
--------------
 
 ### December 4, 2017
 
@@ -44,3 +40,7 @@ Created [Proposal](https://github.com/six0four/StudentSenseHat/blob/master/docum
 
 Created [repository](https://github.com/n01033547/Bluetooth.git).
 
+title: simple site
+---
+Welcome!  Blog is created !
+-------------
