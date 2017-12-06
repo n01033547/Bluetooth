@@ -13,7 +13,7 @@ Pictures of reading the sensors and blinking the led on pcb using raspberry pi.
 
 1. [Blinking the led on the PCB picture](https://github.com/n01033547/Bluetooth/blob/master/redingSensor.JPG).
 
-![Image alt attribute](https://github.com/n01033547/Bluetooth/blob/master/redingSensor.JPG)
+![redingSensor.JPG](https://github.com/n01033547/Bluetooth/blob/master/redingSensor.JPG)
 
 
 2. [Blinking the led on the PCB video](https://github.com/n01033547/Bluetooth/blob/master/Raspberrywith%20PCBled.MOV).
