@@ -30,7 +30,7 @@ Pictures of reading the sensors and blinking the led on pcb using raspberry pi.
 
 - [Led Blinking](https://github.com/n01033547/Bluetooth/blob/master/LedBlinking.JPG).
 
-![Image alt attribute](https://github.com/n01033547/Bluetooth/blob/master/LedBlinking.JPG)
+![Image al](https://github.com/n01033547/Bluetooth/blob/master/LedBlinking.JPG?raw=yes)
 
 
 ### During the strike
@@ -41,7 +41,7 @@ Pictures of reading the sensors and blinking the led on pcb using raspberry pi.
 
 - [My sensor is here](https://github.com/n01033547/Bluetooth/blob/master/QrCodesensor.JPG).
 
-![Image altrhy ](https://github.com/n01033547/Bluetooth/blob/master/QrCodesensor.JPG)
+![Image altrhy ](https://github.com/n01033547/Bluetooth/blob/master/QrCodesensor.JPG?raw=yes)
 
 ### October 2, 2017
 
