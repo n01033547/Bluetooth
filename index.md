@@ -41,7 +41,7 @@ Pictures of reading the sensors and blinking the led on pcb using raspberry pi.
 
 - [My sensor is here](https://github.com/n01033547/Bluetooth/blob/master/QrCodesensor.JPG).
 
-![Image alt attribute](https://github.com/n01033547/Bluetooth/blob/master/QrCodesensor.JPG)
+![Image altrhy ](https://github.com/n01033547/Bluetooth/blob/master/QrCodesensor.JPG)
 
 ### October 2, 2017
 
