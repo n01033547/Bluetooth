@@ -6,6 +6,10 @@ layout: page
 title: simple site
 ---
 
+### December 11, 2017
+
+[Script](https://github.com/n01033547/Bluetooth/blob/master/Script.docx).
+
 ### December 4, 2017
 
 Pictures of reading the sensors and blinking the led on pcb using raspberry pi.
