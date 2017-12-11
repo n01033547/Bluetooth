@@ -10,7 +10,7 @@ title: simple site
 
 [PLA card](https://github.com/n01033547/Bluetooth/blob/master/group_placard.pub).
 
-[Script](https://github.com/n01033547/Bluetooth/blob/master/Script.docx).
+[Script](https://github.com/n01033547/Bluetooth/blob/master/group_placard.jpg?raw=yes).
 
 ### December 4, 2017
 
