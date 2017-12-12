@@ -13,6 +13,7 @@ title: simple site
 ![PLA Card](https://github.com/n01033547/Bluetooth/blob/master/group_placard.jpg?raw=yes).
 
 [Script](https://github.com/n01033547/Bluetooth/blob/master/Script.docx).
+
 I am working on a project regarding e-money transfer using Qr code sensor. The components that I am using for my project are raspberry pi 3 and Qr code sensor. The raspberry pi comes with a case, power adapter and micro sd card. The qr code sensor is connected through usb with raspberry pi. I have used the recommended libraries to power up my sensor with the pi. I plan to demonstrate sending or paying an amount of money using the qr code sensor. It can be used on stores to buy stuff and it could be used at work to transfer money.
 
 
