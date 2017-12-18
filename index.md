@@ -10,7 +10,7 @@ title: simple site
 
 ### December 18, 2017
 
-1. [30 second Build Video](https://youtu.be/GNM_ZdkivdA).
+- [30 second Build Video](https://youtu.be/GNM_ZdkivdA).
 
 ### December 11, 2017
 
