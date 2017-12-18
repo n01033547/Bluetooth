@@ -22,17 +22,17 @@ I am working on a project regarding e-money transfer using Qr code sensor. The c
 Pictures of reading the sensors and blinking the led on pcb using raspberry pi.
 
 
-1. [Blinking the led on the PCB picture](https://github.com/n01033547/Bluetooth/blob/master/redingSensor.JPG).
+1. [Blinking the led on the PCB picture](https://github.com/n01033547/Bluetooth/blob/master/readingSensor.PNG).
 
-![Image alt](https://github.com/n01033547/Bluetooth/blob/master/redingSensor.JPG?raw=yes)
+![Image alt](https://github.com/n01033547/Bluetooth/blob/master/readingSensor.PNG?raw=yes)
 
 
 2. [Blinking the led on the PCB video](https://github.com/n01033547/Bluetooth/blob/master/Raspberrywith%20PCBled.MOV).
 
 
-3. [Reading sensors picture # one](https://github.com/n01033547/Bluetooth/blob/master/readingSensor1.JPG).
+3. [Reading sensors picture # one](https://github.com/n01033547/Bluetooth/blob/master/readingSensor1.PNG).
 
-![Image altone](https://github.com/n01033547/Bluetooth/blob/master/readingSensor1.JPG?raw=yes)
+![Image altone](https://github.com/n01033547/Bluetooth/blob/master/readingSensor1.PNGraw=yes)
 
 4. [Reading sensors picture # two](https://github.com/n01033547/Bluetooth/blob/master/readingSensor2.JPG).
 
