@@ -11,6 +11,7 @@ title: simple site
 ### December 18, 2017
 
 - [30 second Build Video](https://youtu.be/GNM_ZdkivdA).
+
 [Download the video](https://github.com/n01033547/Bluetooth/blob/master/My%20Movie%201.mp4)
 
 ### December 11, 2017
