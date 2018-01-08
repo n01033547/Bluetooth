@@ -10,7 +10,7 @@ title: simple site
 
 ### January 8, 2018
 
-[Progress Report](https://github.com/n01033547/Bluetooth/blob/master/Script.docx).
+[Progress Report](https://github.com/n01033547/Bluetooth/blob/master/Progress%20Report.docx).
 
 ### December 18, 2017
 
