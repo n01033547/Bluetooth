@@ -8,6 +8,10 @@ title: simple site
 
 # QR-Code Sensor
 
+### January 8, 2018
+
+[Progress Report](https://github.com/n01033547/Bluetooth/blob/master/Script.docx).
+
 ### December 18, 2017
 
 - [30 second Build Video](https://youtu.be/GNM_ZdkivdA).
