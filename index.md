@@ -10,13 +10,11 @@ title: simple site
 
 ### January 15, 2018
 
-[Power point presentation](### January 8, 2018
-
-[Progress Report](https://github.com/n01033547/Bluetooth/blob/master/Progress%20Report%20final.docx).
+[Power point presentation](https://github.com/n01033547/Bluetooth/blob/master/Sushant%20Sharma.pptx)
 
 ### January 8, 2018
 
-[Progress Report](https://github.com/n01033547/Bluetooth/blob/master/Progress%20Report%20final.docx).
+[Progress Report](https://github.com/n01033547/Bluetooth/blob/master/Progress%20Report%20final.docx)
 
 ### December 18, 2017
 
