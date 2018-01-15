@@ -8,6 +8,12 @@ title: simple site
 
 # QR-Code Sensor
 
+### January 15, 2018
+
+[Power point presentation](### January 8, 2018
+
+[Progress Report](https://github.com/n01033547/Bluetooth/blob/master/Progress%20Report%20final.docx).
+
 ### January 8, 2018
 
 [Progress Report](https://github.com/n01033547/Bluetooth/blob/master/Progress%20Report%20final.docx).
