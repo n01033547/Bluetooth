@@ -12,7 +12,7 @@
 
 This project is about e-money transfer by using Qr code sensor. The components that have been used for this project are raspberry pi 3 and Qr code sensor. The raspberry pi comes with a case, power adapter and micro sd card with raspbian OS. A monitor, mouse and a keyboard is required to operate raspberry pi, unless you have laptop to connect it with. To connect a laptop with the pi, you have to configure specific settings accordingly which is not covered in the following instructions. The qr code sensor is connected through a usb with raspberry pi. Recommended libraries have been used to power up the sensor. I plan to demonstrate transactions of an amount of money using the qr code sensor. It can be used in stores to buy stuff and to transfer money. Building this project should require a couple of hours if you follow these instructions.
 
-![Image of Prototype](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/SSHrev05.jpg)
+![Image of Prototype](https://github.com/n01033547/Bluetooth/blob/master/Intro.PNG?raw=yes)
 
 ### Bill of Materials/Budget
 
