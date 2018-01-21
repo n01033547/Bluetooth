@@ -8,67 +8,21 @@
 5. [Unit Testing](#student-raspberry-pi-image-creation-and-test-code)
 6. [Production Testing](#enterprise-wi-fi)
 
-![Image of Prototype](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/SSHrev05.jpg)
-
 ### Introduction
 
 This project is regarding e-money transfer using Qr code sensor. The components that have been used for this project are raspberry pi 3 and Qr code sensor. The raspberry pi comes with a case, power adapter and micro sd card with raspbian OS. A monitor, mouse and a keyboard is required to operate raspberry pi, unless you have laptop to connect it with. To connect a laptop with the pi you have to configure specific settings accordingly which is not covered in the following instructions. The qr code sensor is connected through usb with raspberry pi. Recomended liberary has been used to power up the sensor. I plan to demonstrate transaction of an amount of money using the qr code sensor. It can be used in stores to buy stuff and to transfer money. Building this project will only require a couple of hours if you follow these instructions.
 
+![Image of Prototype](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/SSHrev05.jpg)
+
 ### Bill of Materials/Budget
 
-For the most part you will need to buy QR code scanner and raspberry pi. QR code sensor can be used to scan both barcodes and QR codes. They are a bit expensive compare to barcode scanners as they are 2 dimentional and are equiped with laser. 
+I ordered raspberry pi from amazon and it arrived within three days as I am using amazon Prime shipping. For the most part i used QR  code scanner and raspberry pi. QR code sensor can be used to scan both barcodes and QR codes, that's one of the reason they are more expensive compare to barcode scanners, they can scan both 1 dimentional and 2 dimentional codes and are equiped with laser. 
 
-
-NOTE: This mostly through hole design is pin compatible with original mostly surface mount sense hat design which is on the devices in the Humber Parts Crib. The Fall 2017 design is in [Fritzing](https://github.com/six0four/StudentSenseHat/blob/master/electronics/StudentSenseHatV06.fzz) while the Fall 2016 design was in [Eagle](https://github.com/vladporcila/ModularSenseHatStripped), if curious, take a look at using the [Sparkfun Cam file](https://learn.sparkfun.com/tutorials/using-eagle-board-layout/generating-gerbers). Once you have recieved your PCB the kit looks something like the following photo.
-
-![Kit Bag](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/kitbag.jpg)
-
-For a list of materials please download the [Excel](https://github.com/six0four/StudentSenseHat/blob/master/electronics/StudentSenseHatV05_bom.xlsx) file in the repository.
-
-The more interesting components consist of:
-
-1.  1 bidirectional LED
-
-2.  DDS3231S IC RTC Clk/Calendar I2C 16-SOIC
-    <http://www.amazon.com/Donop-DS3231-AT24C32-precision-Arduino/dp/B00HCB7VYS>
-
-3.  4 channel 8 bit a/d, 1 channel d/a PCF8591T I2C-Bus D/A CONVERTER
-    <http://www.modmypi.com/raspberry-pi/breakout-boards/seeed/raspberry-pi-adda-expansion-board>
-    https://www.creatroninc.com/product/pcf8591-8-bit-i2c-adc-dac/
-
-4.  Temperature, humidity, pressure sensor. SparkFun Atmospheric Sensor Breakout
-
-    -   BME280 <https://www.sparkfun.com/products/13676>
-
-5.  One optional surface mount resistor. 
-	
-###### Additional items that are only added to those devices in the Humber Parts Crib
-
-1.  Humber sense hat eeprom for i2c id \<https://www.sparkfun.com/products/525
-    https://www.adafruit.com/product/1895\>
-
-2.  16 I/O pins MCP23017SO I/O Expander I2C
-    <https://www.adafruit.com/products/732>
-
-3.  Breadboarding area
-
-![Image of Crib Pi](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/cribpionly.jpg)
+![PLA Card](https://github.com/n01033547/Bluetooth/blob/master/screenshot%20budget.PNG?raw=yes)
 
 ### Time Commitment
 
-1.  The Fritzing file is available here: https://github.com/six0four/StudentSenseHat/tree/master/electronics/StudentSenseHatV06.fzz
-2.  It has a breadboard view:
-![Image of breadboard view](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/electronics/StudentSenseHatV06_bb.jpg)
-Following the [best practices](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution#Examples_of_attribution):
-This work is a derivative of "http://fritzing.org/parts/" by [Fritzing](http://fritzing.org/), used under [CC:BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
-3.  It has a schematic view:
-![Image of schematic view](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/electronics/StudentSenseHatV06_schem.jpg)
-This work is a derivative of "http://fritzing.org/parts/" by [Fritzing](http://fritzing.org/), used under [CC:BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
-4.  It has a PCB view:
-![Image of PCB view](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/electronics/StudentSenseHatV06_pcb.jpg)
-This work is a derivative of "http://fritzing.org/parts/" by [Fritzing](http://fritzing.org/), used under [CC:BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
-6.  A Bill Of Materials can be exported: [BOM](https://github.com/six0four/StudentSenseHat/blob/master/electronics/StudentSenseHatV05_bom.xlsx).
-7.  As well as Gerber files: [RS-274X](https://github.com/six0four/StudentSenseHat/blob/master/electronics/Gerber_RS-274X).
+
 
 ### Student Sense Hat Assembly
 
