@@ -10,13 +10,13 @@
 
 ### Introduction
 
-This project is regarding e-money transfer using Qr code sensor. The components that have been used for this project are raspberry pi 3 and Qr code sensor. The raspberry pi comes with a case, power adapter and micro sd card with raspbian OS. A monitor, mouse and a keyboard is required to operate raspberry pi, unless you have laptop to connect it with. To connect a laptop with the pi you have to configure specific settings accordingly which is not covered in the following instructions. The qr code sensor is connected through usb with raspberry pi. Recomended liberary has been used to power up the sensor. I plan to demonstrate transaction of an amount of money using the qr code sensor. It can be used in stores to buy stuff and to transfer money. Building this project will only require a couple of hours if you follow these instructions.
+This project is about e-money transfer by using Qr code sensor. The components that have been used for this project are raspberry pi 3 and Qr code sensor. The raspberry pi comes with a case, power adapter and micro sd card with raspbian OS. A monitor, mouse and a keyboard is required to operate raspberry pi, unless you have laptop to connect it with. To connect a laptop with the pi, you have to configure specific settings accordingly which is not covered in the following instructions. The qr code sensor is connected through a usb with raspberry pi. Recommended libraries have been used to power up the sensor. I plan to demonstrate transactions of an amount of money using the qr code sensor. It can be used in stores to buy stuff and to transfer money. Building this project should require a couple of hours if you follow these instructions.
 
 ![Image of Prototype](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/SSHrev05.jpg)
 
 ### Bill of Materials/Budget
 
-I ordered raspberry pi from amazon and it arrived within three days as I am using amazon Prime shipping. For the most part i used QR  code scanner and raspberry pi. QR code sensor can be used to scan both barcodes and QR codes, that's one of the reason they are more expensive compare to barcode scanners, they can scan both 1 dimentional and 2 dimentional codes and are equiped with laser. 
+I ordered raspberry pi from amazon and it arrived within three days as I used amazon prime shipping. For the most part, I used QR code scanner and raspberry pi. QR code sensor can be used to scan both barcodes and QR codes which is one of the reasons they are more expensive compared to barcode scanners. They can also scan both 1 dimentional and 2 dimentional codes and are equiped with laser. 
 
 ![PLA Card](https://github.com/n01033547/Bluetooth/blob/master/screenshot%20budget.PNG?raw=yes)
 
