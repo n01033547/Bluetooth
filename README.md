@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Bill of Materials/Budget](#bill-of-materials-budget)
+2. [Bill of Materials/Budget](#bill-of-materials/budget)
 3. [Time Commitment](#time-commitment)
 4. [Mechanical Assembly](#mechanical-assembly)
 5. [Unit Testing](#unit-testing)
