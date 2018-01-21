@@ -22,17 +22,17 @@ I ordered raspberry pi from amazon and it arrived within three days as I used am
 
 ### Time Commitment
 
-Once I got the equipment it took me 2 weeks to complete the project. This period includes the time that I spent on researching and building my sensors so that it can operate the way i wanted it to. My qr code scanner in connected to the pi through usb so I spend only 2 minutes to connect and test it. But the part that took most of the time was creating the python code.
+Once I received the equipment, it took me approximately 2 weeks to complete the project. This period includes the time that I spent on researching and building my sensors in order for them to operate in the way I wanted them to. My qr code scanner is connected to the pi through a usb interface which took about 2 minutes to connect and test. However, the part that took the most amount of the time was creating the python code.
 
 ### Mechanical Assembly
 
-I did not need any extra electrical equipment such as wires, motors, resistors, capacitors etc. The assembly of this project requires raspberry pi, power adaptor and QR code scanner with usb interface. I used a mouse, keyboard and monitor to connect the pi and to test my sensor.
+I did not need any extra electrical equipment such as wires, motors, resistors, capacitors etc. The assembly of this project requires raspberry pi, power adaptor and QR code scanner with a usb interface. I used a mouse, keyboard and monitor to connect the pi and to test my sensor.
 
 ### Unit Testing
 
-When I first got my sensor I was testing it by connecting it to my powered up pi. I was just scanning randomly generated qr codes and barcodes from the internet. And everytime I scanned, the screen I was on happened to scroll down automatically. I thought that the scanned item was being stored somewhere on my the pi. But after searching I could not find it anywhere. Then I though that maybe it will store it on a text editor like notepad or MS word. So I scanned while openning a text editor and the code was stored in the file. 
+When I first received my sensor, I was testing it by connecting it to my powered up pi. Initially, I was just scanning randomly generated qr codes and barcodes from the internet. And everytime I scanned, the screen I was on happened to scroll down automatically. I thought that the scanned item was being stored somewhere on the SD card of my pi. However after searching, I was unable to find it anywhere. Then I thought that maybe it would be stored in a text editor like notepad or MS word if I had opened one. So I scanned while openning a text editor and the code was stored in the file. 
 
 ### Production Testing
 
-Then I started working on programming my sensor so that it can compare the codes i am sccanning with existing codes ina database. If that Qr code or barcode exists in the databse then my program will store in a new file called cart. And if ti does not exist in the invetory or databse then a message will be displayed saying that we dont have that item.
+I started working on a program so that once I scan a code, my sensor can compare that code with existing codes in a database. If that Qr code or barcode exists in the databse, then my program will  it in a new file called cart. And if it does not exist in the invetory or databse then a message will be displayed saying that we dont have that item.
 
