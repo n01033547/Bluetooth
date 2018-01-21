@@ -2,11 +2,13 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Bill of Materials/Budget](#student-sense-hat-specifications)
-3. [Time Commitment](#student-sense-hat-electronic-design-files)
-4. [Mechanical Assembly](#student-sense-hat-assembly)
-5. [Unit Testing](#student-raspberry-pi-image-creation-and-test-code)
-6. [Production Testing](#enterprise-wi-fi)
+2. [Bill of Materials/Budget](#bill-of-materials-budget)
+3. [Time Commitment](#time-commitment)
+4. [Mechanical Assembly](#mechenical-assembly)
+5. [Unit Testing](#unit-testing)
+6. [Production Testing](#production-testing)
+
+![System Diagram](https://github.com/n01033547/Bluetooth/blob/master/qr%20scanner%20and%20pi.PNG?raw=yes)
 
 ### Introduction
 
