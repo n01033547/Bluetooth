@@ -36,3 +36,5 @@ When I first received my sensor, I was testing it by connecting it to my powered
 
 I started working on a program so that once I scan a code, my sensor can compare that code with existing codes in a database. If that Qr code or barcode exists in the databse, then my program will  it in a new file called cart. And if it does not exist in the invetory or databse then a message will be displayed saying that we dont have that item.
 
+![PLA Card](https://github.com/n01033547/Bluetooth/blob/master/pyhton%20code.PNG?raw=yes)
+
