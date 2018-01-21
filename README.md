@@ -4,7 +4,7 @@
 1. [Introduction](#introduction)
 2. [Bill of Materials/Budget](#bill-of-materials-budget)
 3. [Time Commitment](#time-commitment)
-4. [Mechanical Assembly](#mechenical-assembly)
+4. [Mechanical Assembly](#Mechanical-Assembly)
 5. [Unit Testing](#unit-testing)
 6. [Production Testing](#production-testing)
 
