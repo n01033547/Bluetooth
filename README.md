@@ -26,52 +26,13 @@ Once I got the equipment it took me 2 weeks to complete the project. This period
 
 ### Mechanical Assembly
 
-
+I did not need any extra electrical equipment such as wires, motors, resistors, capacitors etc. The assembly of this project requires raspberry pi, power adaptor and QR code scanner with usb interface. I used a mouse, keyboard and monitor to connect the pi and to test my sensor.
 
 ### Unit Testing
 
-1.	Building the Humber image for the Sense Hat: [https://github.com/six0four/StudentSenseHat/blob/master/cribpisdcard.md](https://github.com/six0four/StudentSenseHat/blob/master/cribpisdcard.md)  
-	Note that apt-get puts the installed packages into
-    /var/cache/apt/archives/ so a zip of the files from there would
-    complement the script used by these instructions.
+When I first got my sensor I was testing it by connecting it to my powered up pi. I was just scanning randomly generated qr codes and barcodes from the internet. And everytime I scanned, the screen I was on happened to scroll down automatically. I thought that the scanned item was being stored somewhere on my the pi. But after searching I could not find it anywhere. Then I though that maybe it will store it on a text editor like notepad or MS word. So I scanned while openning a text editor and the code was stored in the file. 
 
-5.  Open a terminal and type:
-	```
-	git clone https://github.com/six0four/StudentSenseHat.git
-	cd StudentSenseHat/firmware
-	gcc -Wall -o traffic2B traffic2B.c -lwiringPi
-	sudo ./traffic2B
-	```
-	write to your blog what happens with your LED.
-	
-6.	From the Start Menu->Preferences->Raspberry Pi Configuration->Interfaces set I2C to Enabled.
+### Production Testing
 
-7.	Return to your terminal and type:
-    ```Shell
-	make
-	sudo ./ghmain
-	```
-	write to your blog what happens.
-
-8.	You can read the OS date with:
-    ```Shell
-	date
-	```
-	You can set the OS date with:
-	```Shell
-	sudo date –s “29 AUG 1997 13:00:00”
-	```
-	You can write the OS date to the RTC with:
-	```Shell
-	sudo hwclock –w
-	```
-	You can read the RTC date with:
-	```Shell
-	sudo hwclock -r
-	```
-	
-9.	Things to consider for your particular application: boot options (Gui to terminal), and permissions when auto mounting usb keys.
-	
-10.  Use <http://sourceforge.net/projects/win32diskimager/> to read the image
-    into a file.
+Then I started working on programming my sensor so that it can compare the codes i am sccanning with existing codes ina database. If that Qr code or barcode exists in the databse then my program will store in a new file called cart. And if ti does not exist in the invetory or databse then a message will be displayed saying that we dont have that item.
 
