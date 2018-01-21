@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Bill of Materials/Budget](#bill-of-materials/budget)
+2. [Bill of Materials/Budget](#bill-of-materials-budget)
 3. [Time Commitment](#time-commitment)
 4. [Mechanical Assembly](#mechanical-assembly)
 5. [Unit Testing](#unit-testing)
@@ -16,11 +16,11 @@ This project is about e-money transfer by using Qr code sensor. The components t
 
 ![Image of Prototype](https://github.com/n01033547/Bluetooth/blob/master/Intro.PNG?raw=yes)
 
-### Bill of Materials/Budget
+### Bill of Materials Budget
 
 I ordered raspberry pi from amazon and it arrived within three days as I used amazon prime shipping. For the most part, I used QR code scanner and raspberry pi. QR code sensor can be used to scan both barcodes and QR codes which is one of the reasons they are more expensive compared to barcode scanners. They can also scan both 1 dimentional and 2 dimentional codes and are equiped with laser. 
 
-![PLA Card](https://github.com/n01033547/Bluetooth/blob/master/screenshot%20budget.PNG?raw=yes)
+![Budget](https://github.com/n01033547/Bluetooth/blob/master/screenshot%20budget.PNG?raw=yes)
 
 ### Time Commitment
 
