@@ -10,6 +10,10 @@ title: simple site
 
 ### January 15, 2018
 
+[README.md](https://github.com/n01033547/Bluetooth/blob/master/README.md)
+
+### January 15, 2018
+
 [Power point presentation](https://github.com/n01033547/Bluetooth/blob/master/Sushant%20Sharma.pptx)
 
 ### January 8, 2018
