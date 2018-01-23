@@ -8,7 +8,7 @@ title: simple site
 
 # QR-Code Sensor
 
-### January 15, 2018
+### January 22, 2018
 
 [README.md](https://github.com/n01033547/Bluetooth/blob/master/README.md)
 
